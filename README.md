@@ -1,5 +1,5 @@
-# MediCare: Your One-Stop Solution for Medicine Orders and Doctor Appointments
-Welcome to MediCare, an Android application built with Java and SQLite. This app allows users to register, log in, order medicines, and book doctor appointments seamlessly to :-
+# MediFirst: Your One-Stop Solution for Medicine Orders and Doctor Appointments
+Welcome to MediFirst, an Android application built with Java and SQLite. This app allows users to register, log in, order medicines, and book doctor appointments seamlessly to :-
 ## Register and Login
 
 - Create a personalized account with a simple registration process.
