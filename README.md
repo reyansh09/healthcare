@@ -22,13 +22,16 @@ Manage your upcoming and past appointments directly in the app.
 - User-Friendly UI: Intuitive and clean design for a hassle-free experience.
 
 ## Tech Stack
+
 - Programming Language: Java
 - Database: SQLite
 - Platform: Android Development
 
-Future Enhancements
+## Future Enhancements
+
 - Integration of payment gateways for online transactions.
 - Notifications for order updates and appointment reminders.
 - Enhanced search and filtering options for medicines and doctors.
+  
 ### Start your journey towards better healthcare with MediCare! 🚀
 
