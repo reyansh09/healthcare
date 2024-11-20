@@ -35,6 +35,7 @@ Manage your upcoming and past appointments directly in the app.
 
 ## Demo 
 
+<div style="display: flex; justify-content: center; align-items: center;">
 - ### Register
 <img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="150" height="300"> 
 
@@ -43,6 +44,7 @@ Manage your upcoming and past appointments directly in the app.
 
 - ### Home
 <img src="https://github.com/user-attachments/assets/0a57425e-e465-49b9-80e2-bc1864603053" alt="Register" width="150" height="300">
+</div>
 
 - ### Find Doctor 
 <img src="https://github.com/user-attachments/assets/412ce3bc-72df-44f1-9146-4b108565e9dc" alt="Register" width="150" height="300"> 
