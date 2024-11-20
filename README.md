@@ -39,7 +39,28 @@ Manage your upcoming and past appointments directly in the app.
 <img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
 
 - ### Login
-<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500s"> 
+<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
+
+- ### Lab Test
+<img src="https://github.com/user-attachments/assets/b9da3713-1e14-4702-85c9-89415273b87e" alt="Register" width="250" height="500">
+
+- ### Login
+<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
+
+- ### Register
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
+
+- ### Login
+<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
+
+- ### Register
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
+
+- ### Login
+<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
+
+- ### Register
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
 
 
 ![Login](https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2)
