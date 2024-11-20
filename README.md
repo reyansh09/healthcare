@@ -35,5 +35,7 @@ Manage your upcoming and past appointments directly in the app.
   
 ### Start your journey towards better healthcare with MediCare! 🚀
 
-![Register](https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d)
+<img src="[images/medicare_demo.png](https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d)" alt="MediCare App Demo" width="600">
+
+
 
