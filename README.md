@@ -36,41 +36,32 @@ Manage your upcoming and past appointments directly in the app.
 ## Demo 
 
 - ### Register
-<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="100" height="200">
 
 - ### Login
 <img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
+
+- ### Home
+<img src="https://github.com/user-attachments/assets/0a57425e-e465-49b9-80e2-bc1864603053" alt="Register" width="250" height="500">
+
+- ### Find Doctor 
+<img src="https://github.com/user-attachments/assets/412ce3bc-72df-44f1-9146-4b108565e9dc" alt="Register" width="250" height="500s"> 
+
+- ### List of Doctor
+<img src="https://github.com/user-attachments/assets/1a6d90db-135d-4eae-a31c-bb7719afd8fe" alt="Register" width="250" height="500">
+
+- ### Cart Order
+<img src="https://github.com/user-attachments/assets/782b483f-68ea-47a9-bb66-83805d55ecf2" alt="Register" width="250" height="500s"> 
 
 - ### Lab Test
 <img src="https://github.com/user-attachments/assets/b9da3713-1e14-4702-85c9-89415273b87e" alt="Register" width="250" height="500">
 
-- ### Login
-<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
+- ### Medicines
+<img src="https://github.com/user-attachments/assets/8ed061d0-fa30-4914-952c-481f21988e23" alt="Register" width="250" height="500s"> 
 
-- ### Register
-<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
+- ### Order Detail List
+<img src="https://github.com/user-attachments/assets/7824352a-9d46-4d33-96f8-2c363a686375" alt="Register" width="250" height="500">
 
-- ### Login
-<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
-
-- ### Register
-<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
-
-- ### Login
-<img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="250" height="500s"> 
-
-- ### Register
-<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="250" height="500">
-
-
-![Login](https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2)
-![Lab Test](https://github.com/user-attachments/assets/b9da3713-1e14-4702-85c9-89415273b87e)
-![Medicines](https://github.com/user-attachments/assets/8ed061d0-fa30-4914-952c-481f21988e23)
-![Cart Order](https://github.com/user-attachments/assets/782b483f-68ea-47a9-bb66-83805d55ecf2)
-![order Detail](https://github.com/user-attachments/assets/7824352a-9d46-4d33-96f8-2c363a686375)
-![List of Doctor](https://github.com/user-attachments/assets/1a6d90db-135d-4eae-a31c-bb7719afd8fe)
-![Find Doctor](https://github.com/user-attachments/assets/412ce3bc-72df-44f1-9146-4b108565e9dc)
-![Home](https://github.com/user-attachments/assets/0a57425e-e465-49b9-80e2-bc1864603053)
 
 
 
