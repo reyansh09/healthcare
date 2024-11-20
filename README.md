@@ -36,13 +36,8 @@ Manage your upcoming and past appointments directly in the app.
 ## Demo 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-- ### Register
 <img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="150" height="300"> 
-
-- ### Login
 <img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="150" height="300"> 
-
-- ### Home
 <img src="https://github.com/user-attachments/assets/0a57425e-e465-49b9-80e2-bc1864603053" alt="Register" width="150" height="300">
 </div>
 
