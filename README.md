@@ -37,7 +37,7 @@ Manage your upcoming and past appointments directly in the app.
 
 <div style="display: flex; justify-content: center; align-items: center;">
   
-<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="150" height="300"  margin="40"> 
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="150" height="300"  margin="40" > 
   
 <img src="https://github.com/user-attachments/assets/59a5904c-13ed-414e-9b36-6510eed05bd2" alt="Register" width="150" height="300"  margin="40"> 
 
@@ -45,23 +45,26 @@ Manage your upcoming and past appointments directly in the app.
 
 </div>
 
-- ### Find Doctor 
+
+<div style="display: flex; justify-content: center; align-items: center;"> 
 <img src="https://github.com/user-attachments/assets/412ce3bc-72df-44f1-9146-4b108565e9dc" alt="Register" width="150" height="300"> 
 
-- ### List of Doctor
 <img src="https://github.com/user-attachments/assets/1a6d90db-135d-4eae-a31c-bb7719afd8fe" alt="Register" width="150" height="300">
 
-- ### Cart Order
-<img src="https://github.com/user-attachments/assets/782b483f-68ea-47a9-bb66-83805d55ecf2" alt="Register" width="150" height="300"> 
+<img src="https://github.com/user-attachments/assets/782b483f-68ea-47a9-bb66-83805d55ecf2" alt="Register" width="150" height="300">
 
-- ### Lab Test
+</div>
+
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  
 <img src="https://github.com/user-attachments/assets/b9da3713-1e14-4702-85c9-89415273b87e" alt="Register" width="150" height="300">
-
-- ### Medicines
+  
 <img src="https://github.com/user-attachments/assets/8ed061d0-fa30-4914-952c-481f21988e23" alt="Register" width="150" height="300"> 
 
-- ### Order Detail List
 <img src="https://github.com/user-attachments/assets/7824352a-9d46-4d33-96f8-2c363a686375" alt="Register" width="150" height="300">
+
+</div>
 
 
 
