@@ -33,9 +33,7 @@ Manage your upcoming and past appointments directly in the app.
 - Notifications for order updates and appointment reminders.
 - Enhanced search and filtering options for medicines and doctors.
   
-### Start your journey towards better healthcare with MediCare! 🚀
-
-<img src="[images/medicare_demo.png](https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d)" alt="MediCare App Demo" width="600">
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="600" height="auto">
 
 
 
