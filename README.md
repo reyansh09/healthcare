@@ -32,8 +32,14 @@ Manage your upcoming and past appointments directly in the app.
 - Integration of payment gateways for online transactions.
 - Notifications for order updates and appointment reminders.
 - Enhanced search and filtering options for medicines and doctors.
-  
+
+## Demo 
+
+- ### Register
 <img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="500" height="1000">
+
+- ### Login
+<img src="https://github.com/user-attachments/assets/80dc7b5e-de9f-4877-8cde-6ffd0be2a40d" alt="Register" width="500" height="1000"> 
 
 
 
